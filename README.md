@@ -1,5 +1,5 @@
 # DeadByDaylight
-Research material and PoC for bugs found during the reversal of the game Dead by Daylight. All information provided is for educational purpose and shows possible pitfalls game developers may fall into. For an in depth analysis please refer to the [official article](https://layle.me/dead-by-daylight/). You can reach out to me on [Twitter](https://twitter.com/layle_ctf) for any questions.  
+Research material and PoC for bugs found during the reversal of the game Dead by Daylight. All information provided is for educational purpose and shows possible pitfalls game developers may fall into. For an in depth analysis please refer to the [official article](https://layle.me/breaking-dead-by-daylight/). You can reach out to me on [Twitter](https://twitter.com/layle_ctf) for any questions.  
 **Do not use this to get an advantage in the game or in any other game**.
 
 ## dbd_killer_finder
